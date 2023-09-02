@@ -1,6 +1,7 @@
 /*
 Documentation Section
 Package section
+import section
 Class Definition
 class classname
 {
