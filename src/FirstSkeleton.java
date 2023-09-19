@@ -1,10 +1,8 @@
-/*
-Documentation Section
+/*Documentation Section
 Package section
 import section
 Class Definition
-class classname
-{
+class classname{
 }
 Main Class Definition
 public class MainClassName

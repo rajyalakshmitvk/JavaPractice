@@ -9,6 +9,7 @@ public class SampleClass {
     public static void main(String[] args) {
         System.out.println("Classes and Objects");
         TestClass t = new TestClass();
+        System.out.println(t);
         //x=25;
         t.x=10;
         t.y=20;
