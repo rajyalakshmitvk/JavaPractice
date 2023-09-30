@@ -12,5 +12,6 @@ public class Constructor {
     public static void main(String[] args) {
         Constructor c = new Constructor("Hello",25);
         Constructor c1 = new Constructor(25,"Pollo");
+
     }
 }

@@ -8,8 +8,9 @@ class TestClass {
 public class SampleClass {
     public static void main(String[] args) {
         System.out.println("Classes and Objects");
+        int h;
         TestClass t = new TestClass();
-        System.out.println(t);
+        System.out.println(t+" "+t.x+" "+t.y+" "+t.name);
         //x=25;
         t.x=10;
         t.y=20;
